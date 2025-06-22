@@ -6,7 +6,8 @@
 >### *Animations*
 
 The animations are quite easy here we take the image:
-<img src="img/character.png">
+
+![img/character.png](img/character.png)
 
 and we make it run the ` animate() ` function in `sprites.py` in the `Player` class. 
 
