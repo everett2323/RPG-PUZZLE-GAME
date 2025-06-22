@@ -6,12 +6,9 @@
 >### *Animations*
 
 The animations are quite easy here we take the image:
-
-
-1. Open the file containing the Linux mascot.
-2. Marvel at its beauty.
-
+`img/character.png`
     ![img/character.png](img/character.png)
+
 
 and we make it run the ` animate() ` function in `sprites.py` in the `Player` class. 
 
